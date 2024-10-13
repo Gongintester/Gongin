@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ** Electrofox(Fork Waterfox), Reworking #####.eu ** <br>🤝 I’m looking for help with ** 3D-Ue5 Game ** <br>🌱 I’m currently learning ** Javascript, CSS **<br>💬 Ask me about ** Gongins **<br>⚡ Fun fact 💀 
+🔭 I’m currently working on Electrofox(Fork Waterfox), Reworking #####.eu <br>🤝 I’m looking for help with 3D-Ue5 Game <br>🌱 I’m currently learning Javascript, CSS <br>💬 Ask me about Gongins <br>⚡ Fun fact 💀 
 
 
 ## 🌐 Socials:
