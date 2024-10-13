@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Electrofox(Fork Waterfox), Reworking #####.eu <br>🤝 I’m looking for help with 3D-Ue5 Game <br>🌱 I’m currently learning Javascript, CSS <br>💬 Ask me about Gongins <br>⚡ Fun fact 💀 
+🔭 I’m currently working on: <i>Electrofox(Fork Waterfox), Reworking #####.eu</i> <br>🤝 I’m looking for help with: <i>3D-Ue5 Game</i> <br>🌱 I’m currently learning: <i>Javascript, CSS</i> <br>💬 Ask me about: <i>Python and technician things</i> <br>⚡ Fun fact 💀 
 
 
 ## 🌐 Socials:
@@ -23,14 +23,8 @@ Discord: Gongins
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gongin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+# 📊 GitHub Stats:
 ---
-[![](https://visitcount.itsvg.in/api?id=Gongin&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Lama&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 💫 About Me:
-🔭 I’m currently working on ** Electrofox(Fork Waterfox), Reworking #####.eu ** <br>🤝 I’m looking for help with ** 3D-Ue5 Game ** <br>🌱 I’m currently learning ** Javascript, CSS **<br>💬 Ask me about ** Gongins **<br>⚡ Fun fact 💀 
