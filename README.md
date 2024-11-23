@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <i>Electrofox(Fork Waterfox), Reworking #####.eu</i> <br>🤝 I’m looking for help with: <i>3D-Ue5 Game</i> <br>🌱 I’m currently learning: <i>Javascript, CSS</i> <br>💬 Ask me about: <i>Python and technician things</i> <br>⚡ Fun fact 💀 
+🔭 I’m currently working on: <i>Secret</i> <br>🤝 I’m looking for help with: <i>Java Development</i> <br>🌱 I’m currently learning: <i>Javascript, Kotlin</i> <br>💬 Ask me about: <i>Python and technician things</i> <br>⚡ Fun fact 💀 
 
 
 ## 🌐 Socials:
